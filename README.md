@@ -1,4 +1,3 @@
-
 # Java Fundamentals 1Z0-811
 
 This repository contains resources and notes for preparing for the Oracle Java Foundations (1Z0-811) certification exam.
