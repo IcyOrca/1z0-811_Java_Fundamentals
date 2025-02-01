@@ -12,7 +12,7 @@ This repository contains resources and notes for preparing for the Oracle Java F
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/1z0811-java-fundamentals.git
+   git clone https://github.com/IcyOrca/1z0-811_Java_Fundamentals.git
    ```
 2. Import the project into your preferred IDE.
 3. Explore the code examples in the respective directories.
